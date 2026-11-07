@@ -4,6 +4,8 @@
 Позволяет оценивать одно вино, загружать CSV, менять порог отбора
 и просматривать метрики и коэффициенты модели.
 
+Streamlit link: https://wine-quality-app-r94mxzosylbbxbxuapt8tq.streamlit.app/
+
 ## Запуск
 
 Версия Python: укажите свою версию.
