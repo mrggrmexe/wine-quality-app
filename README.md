@@ -8,7 +8,7 @@ Streamlit link: https://wine-quality-app-r94mxzosylbbxbxuapt8tq.streamlit.app/
 
 ## Запуск
 
-Версия Python: укажите свою версию.
+Версия Python: 3.14.2
 
 ```bash
 python3 -m venv .venv
